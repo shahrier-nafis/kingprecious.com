@@ -1,0 +1,41 @@
+body {
+    background-color: #ffffff;
+   }
+#instagram {
+    fill: url("#instagram1");
+}
+#twitter {
+    fill: url("#twitter1");
+}
+#facebook {
+    fill: url("#facebook1");
+}
+    #youtube {
+    fill:#FF0000
+}
+#instagram:hover {
+    fill:#E0115F
+}
+#twitter:hover {
+    fill:#00acee
+}
+#facebook:hover {
+    fill:#3b5998
+}
+#youtube:hover {
+    fill:#ff7d27
+}
+svg {
+    max-width: 100%;
+    max-height: 100%;
+}
+div {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+body {
+    margin: 0;
+    padding: 0;
+  }
